@@ -1,4 +1,4 @@
-Project Name - SIMPLE PAYMENT SYSTEM
+Project - Simple Payment System
 
 Key Features:
 
@@ -16,4 +16,5 @@ Key Features:
 
 7. Security: Implement robust security measures to protect user accounts, transactions, and sensitive information.
 
-8. User-friendly Interface: Design an intuitive and user-friendly interface for easy navigation and transaction management.# Coders_Guild-aptos-project
+8. User-friendly Interface: Design an intuitive and user-friendly interface for easy navigation and transaction management.
+A simple payment system using Aptos for peer-to-peer payments or microtransactions is a straightforward app that leverages Aptos's fast and low-cost transactions to facilitate seamless money transfers between individual# Coders-Guild-aptos-project
